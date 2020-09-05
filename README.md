@@ -1,2 +1,2 @@
 # Data-Structure
-Data Structure Assignment and Lab
+Data Structures Assignments and Labs
